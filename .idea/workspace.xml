@@ -3,21 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4eb7cbc0-f7b6-4349-a3ab-56f713c1b83e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB/MongoDB/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/数据库/MongoDB/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB/MySQL/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据库/MySQL/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB/MySQL/2.md" beforeDir="false" afterPath="$PROJECT_DIR$/数据库/MySQL/2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB/MySQL/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/数据库/MySQL/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB/redis/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/数据库/redis/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art/1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-secure/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-secure/info-collect.md" beforeDir="false" afterPath="$PROJECT_DIR$/网络安全/info-collect.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础/Git/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/工具类/Git/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础/Git/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/工具类/Git/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础/NetWork/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/计算机网络/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础/NetWork/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/计算机网络/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础/NetWork/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/计算机网络/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础/NetWork/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/计算机网络/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础/NetWork/网络层次模型.md" beforeDir="false" afterPath="$PROJECT_DIR$/计算机网络/网络层次模型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/HTTP.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,36 +28,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/工具类/Git/1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="309">
-                <caret line="68" column="11" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="11" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/网络安全/info-collect.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="17">
-                <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="10" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.MD">
+        <entry file="file://$PROJECT_DIR$/博客/nextjs/1/1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="17">
-                <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <first_editor relative-caret-position="238">
+                <caret line="38" column="75" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="75" />
               </first_editor>
               <second_editor />
             </state>
@@ -78,7 +41,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据库/MongoDB/README.md">
+        <entry file="file://$PROJECT_DIR$/前端/Next/1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="227">
+                <caret line="71" column="42" lean-forward="true" selection-start-line="71" selection-start-column="42" selection-end-line="71" selection-end-column="42" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/前端/Next/2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -88,64 +63,41 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据库/redis/README.md">
+        <entry file="file://$PROJECT_DIR$/前端/Next/3.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="68">
-                <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据库/MySQL/1.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据库/MySQL/2.md">
+        <entry file="file://$PROJECT_DIR$/前端/Next/4.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="326">
-                <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/服务端/备份.md">
+        <entry file="file://$PROJECT_DIR$/前端/Next/koa.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="17">
-                <caret line="1" selection-start-line="1" selection-end-line="1" />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/服务端/ngnix.md">
+        <entry file="file://$PROJECT_DIR$/前端/Next/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/markdown.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="289">
-                <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+              <first_editor relative-caret-position="51">
+                <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -174,8 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo/app_tree.html" />
-        <option value="$PROJECT_DIR$/JQuery/README.md" />
         <option value="$PROJECT_DIR$/NodeJs/1.main.md" />
         <option value="$PROJECT_DIR$/Git/READEKE.md" />
         <option value="$PROJECT_DIR$/js/Promise.md" />
@@ -217,7 +167,6 @@
         <option value="$PROJECT_DIR$/Linux/index8.md" />
         <option value="$PROJECT_DIR$/服务端/运维/备份.md" />
         <option value="$PROJECT_DIR$/服务端/Linux基础/index5.md" />
-        <option value="$PROJECT_DIR$/前端/HTTP.md" />
         <option value="$PROJECT_DIR$/基础/NetWork/网络层次模型.md" />
         <option value="$PROJECT_DIR$/DB/MySQL/README.md" />
         <option value="$PROJECT_DIR$/DB/MySQL/2.md" />
@@ -225,6 +174,9 @@
         <option value="$PROJECT_DIR$/服务端/ngnix.md" />
         <option value="$PROJECT_DIR$/基础/Git/1.md" />
         <option value="$PROJECT_DIR$/README.MD" />
+        <option value="$PROJECT_DIR$/前端/HTTP.md" />
+        <option value="$PROJECT_DIR$/博客/nextjs/1.md" />
+        <option value="$PROJECT_DIR$/博客/nextjs/1/1.md" />
       </list>
     </option>
   </component>
@@ -234,7 +186,9 @@
     <option name="width" value="1346" />
     <option name="height" value="727" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -248,6 +202,35 @@
               <item name="LearingNotes" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearingNotes" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LearingNotes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearingNotes" type="462c0819:PsiDirectoryNode" />
+              <item name="前端" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearingNotes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearingNotes" type="462c0819:PsiDirectoryNode" />
+              <item name="前端" type="462c0819:PsiDirectoryNode" />
+              <item name="Next" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearingNotes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearingNotes" type="462c0819:PsiDirectoryNode" />
+              <item name="博客" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearingNotes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearingNotes" type="462c0819:PsiDirectoryNode" />
+              <item name="博客" type="462c0819:PsiDirectoryNode" />
+              <item name="nextjs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearingNotes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearingNotes" type="462c0819:PsiDirectoryNode" />
+              <item name="博客" type="462c0819:PsiDirectoryNode" />
+              <item name="nextjs" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -258,25 +241,26 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/DB/MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/博客/nextjs/1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\web\LearingNotes" />
-      <recent name="D:\web\LearingNotes\服务端" />
-      <recent name="D:\web\LearingNotes\基础\Git" />
-      <recent name="D:\web\LearingNotes\基础" />
-      <recent name="D:\web\LearingNotes\前端" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\web\LearingNotes\博客\nextjs\1" />
       <recent name="D:\web\LearingNotes\DB\MySQL" />
       <recent name="D:\web\LearingNotes\NetWork" />
       <recent name="D:\web\LearingNotes\demo" />
       <recent name="D:\web\LearingNotes\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\web\LearingNotes\博客\nextjs\1" />
+      <recent name="D:\web\LearingNotes" />
+      <recent name="D:\web\LearingNotes\服务端" />
+      <recent name="D:\web\LearingNotes\基础\Git" />
+      <recent name="D:\web\LearingNotes\基础" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -383,12 +367,13 @@
       <workItem from="1575538441824" duration="801000" />
       <workItem from="1575553235204" duration="7021000" />
       <workItem from="1575604314084" duration="10995000" />
-      <workItem from="1575627318947" duration="1383000" />
+      <workItem from="1575627318947" duration="16866000" />
+      <workItem from="1575685187958" duration="14579000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="439688000" />
+    <option name="totallyTimeSpent" value="469750000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -432,80 +417,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/前端/NodeJs/npm_package.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="401">
-            <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.745.3774/HZ$D.745.3775/jokcy-next/pages/index.js" />
-    <entry file="file://$PROJECT_DIR$/前端/NodeJs/1.main.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="510">
-            <caret line="30" column="55" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端/Next/koa.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="680">
-            <caret line="40" column="73" selection-start-line="40" selection-start-column="73" selection-end-line="40" selection-end-column="73" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端/Next/1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="935">
-            <caret line="55" column="37" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端/js/class.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="272">
-            <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端/js/promise.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端/js/Promise.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2091">
-            <caret line="123" column="29" selection-start-line="123" selection-start-column="29" selection-end-line="123" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端/js/basic.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="170">
-            <caret line="10" selection-start-line="10" selection-end-line="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端/React/bug.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -546,16 +457,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/前端/Next/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="102">
-            <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/计算机网络/2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -581,16 +482,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oauth/README.md" />
     <entry file="file://$PROJECT_DIR$/服务端/运维/rsync.md" />
-    <entry file="file://$PROJECT_DIR$/前端/HTTP.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="102">
-            <caret line="6" selection-start-line="6" selection-end-line="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/计算机网络/1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -760,26 +651,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/art/1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/工具类/Git/1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="309">
-            <caret line="68" column="11" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/art/1.md" />
     <entry file="file://$PROJECT_DIR$/网络安全/info-collect.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -821,11 +693,91 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/前端/HTTP.md" />
     <entry file="file://$PROJECT_DIR$/README.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具类/Git/1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1156">
+            <caret line="68" column="11" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/博客/nextjs/1/1.png" />
+    <entry file="file://$PROJECT_DIR$/博客/nextjs/1/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/Next/2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/Next/3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/Next/4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/Next/koa.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/Next/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/博客/nextjs/1/5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/Next/1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="227">
+            <caret line="71" column="42" lean-forward="true" selection-start-line="71" selection-start-column="42" selection-end-line="71" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/博客/nextjs/1/1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="238">
+            <caret line="38" column="75" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="75" />
           </first_editor>
           <second_editor />
         </state>
