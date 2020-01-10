@@ -2,9 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4eb7cbc0-f7b6-4349-a3ab-56f713c1b83e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/开发/前端/框架相关/NodeJs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开发/博客/nextjs/1/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开发/博客/nextjs/1/3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/HTTP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/Babel7/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/其他工具/Babel7/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/Next/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/框架相关/Next/1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/Next/2.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/框架相关/Next/2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/Next/3.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/框架相关/Next/3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/Next/4.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/框架相关/Next/4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/Next/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/框架相关/Next/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/Next/koa.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/框架相关/Next/koa.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/NodeJs/1.main.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/框架相关/NodeJs/1.main.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/NodeJs/2.art-template.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/框架相关/NodeJs/2.art-template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/NodeJs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/NodeJs/attention.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/框架相关/NodeJs/attention.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/NodeJs/express.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/框架相关/NodeJs/express.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/NodeJs/help.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/框架相关/NodeJs/help.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/NodeJs/mokuai.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/框架相关/NodeJs/mokuai.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/NodeJs/npm_package.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/框架相关/NodeJs/npm_package.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/React/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/框架相关/React/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/React/bug.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/框架相关/React/bug.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/React/react-babel.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/框架相关/React/react-babel.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/React/react_hooks.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/框架相关/React/react_hooks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/js/API.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/js/未整理/API.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/js/Ajax/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/js/未整理/Ajax/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/js/JQuery/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/js/未整理/JQuery/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/js/Promise.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/js/未整理/Promise.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/js/RE.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/js/未整理/RE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/js/basic.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/js/未整理/basic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/js/class.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/js/未整理/class.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/js/promise.png" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/js/未整理/promise.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/webpack/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/其他工具/webpack/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/博客/nextjs/1/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/博客/nextjs/1/1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/博客/nextjs/1/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/博客/nextjs/1/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/博客/nextjs/1/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/博客/nextjs/1/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/工具类/Git/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/开发/工具类/Git/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/工具类/Git/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/工具类/Git/1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据库/MongoDB/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/服务端/数据库/MongoDB/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据库/MySQL/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/开发/服务端/数据库/MySQL/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据库/MySQL/2.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/服务端/数据库/MySQL/2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据库/MySQL/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/服务端/数据库/MySQL/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据库/redis/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/服务端/数据库/redis/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/服务端/Linux基础/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/服务端/Linux基础/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/服务端/Linux基础/index2.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/服务端/Linux基础/index2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/服务端/Linux基础/index3.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/服务端/Linux基础/index3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/服务端/Linux基础/index4.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/服务端/Linux基础/index4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/服务端/Linux基础/index5.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/服务端/Linux基础/index5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/服务端/Linux基础/index6.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/服务端/Linux基础/index6.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/服务端/Linux基础/index7.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/服务端/Linux基础/index7.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/服务端/Linux基础/index8.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/服务端/Linux基础/index8.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/服务端/Linux基础/order.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/服务端/Linux基础/order.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/服务端/ngnix.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/服务端/ngnix.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/服务端/备份.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/服务端/备份.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/网络安全/info-collect.md" beforeDir="false" afterPath="$PROJECT_DIR$/研发/网络安全/info-collect.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/计算机网络/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/研发/计算机网络/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/计算机网络/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/研发/计算机网络/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/计算机网络/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/研发/计算机网络/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/计算机网络/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/计算机网络/网络层次模型.md" beforeDir="false" afterPath="$PROJECT_DIR$/研发/计算机网络/网络层次模型.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,12 +87,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/博客/nextjs/1/1.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/渲染过程.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="238">
-                <caret line="38" column="75" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="75" />
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/面试/js基础/js.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="544">
+                <caret line="32" column="102" selection-start-line="26" selection-start-column="1" selection-end-line="32" selection-end-column="102" />
               </first_editor>
               <second_editor />
             </state>
@@ -41,63 +110,70 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前端/Next/1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="227">
-                <caret line="71" column="42" lean-forward="true" selection-start-line="71" selection-start-column="42" selection-end-line="71" selection-end-column="42" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前端/Next/2.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前端/Next/3.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前端/Next/4.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前端/Next/koa.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前端/Next/README.md">
+        <entry file="file://$PROJECT_DIR$/开发/前端/js/原型/1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="51">
                 <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/开发/前端/js/1性能_渲染与脚本位置/1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="323">
+                <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/markdown.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/面试/React/1.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/开发/前端/js/原型/原型链.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/面试/React/2.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/开发/前端/框架相关/React/跨域/跨域.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/面试/React/跨域.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="629">
+                <caret line="37" column="10" lean-forward="true" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -126,57 +202,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/NodeJs/1.main.md" />
-        <option value="$PROJECT_DIR$/Git/READEKE.md" />
-        <option value="$PROJECT_DIR$/js/Promise.md" />
-        <option value="$PROJECT_DIR$/DB/redis/README.md" />
-        <option value="$PROJECT_DIR$/oauth/README.md" />
-        <option value="$PROJECT_DIR$/react_hooks.md" />
-        <option value="$PROJECT_DIR$/React/README.md" />
-        <option value="$PROJECT_DIR$/React/react_hooks.md" />
-        <option value="$PROJECT_DIR$/React/react-babel.md" />
-        <option value="$PROJECT_DIR$/Next/blog.md" />
-        <option value="$PROJECT_DIR$/Babel7/README.md" />
-        <option value="$PROJECT_DIR$/Next/2.md" />
-        <option value="$PROJECT_DIR$/Next/3.md" />
-        <option value="$PROJECT_DIR$/Next/README.md" />
-        <option value="$PROJECT_DIR$/Next/4.md" />
-        <option value="$PROJECT_DIR$/Next/koa.md" />
-        <option value="$PROJECT_DIR$/NodeJs/README.md" />
-        <option value="$USER_HOME$/AppData/Local/Temp/HZ$D.415.1070/HZ$D.415.1075/jokcy-next/pages/_app.js" />
-        <option value="$PROJECT_DIR$/art/1.md" />
-        <option value="$PROJECT_DIR$/web-secure/info-collect.md" />
-        <option value="$PROJECT_DIR$/js/RE.md" />
-        <option value="$PROJECT_DIR$/Next/1.md" />
-        <option value="$PROJECT_DIR$/React/bug.md" />
-        <option value="$PROJECT_DIR$/js/basic.md" />
-        <option value="$PROJECT_DIR$/Linux/program.md" />
-        <option value="$PROJECT_DIR$/Linux/config.md" />
-        <option value="$PROJECT_DIR$/Linux/dir.md" />
-        <option value="$PROJECT_DIR$/Linux/index3.md" />
-        <option value="$PROJECT_DIR$/Linux/index.md" />
-        <option value="$PROJECT_DIR$/NetWork/index.md" />
-        <option value="$PROJECT_DIR$/js/API.md" />
-        <option value="$PROJECT_DIR$/Linux/index2.md" />
-        <option value="$PROJECT_DIR$/Linux/index6.md" />
-        <option value="$PROJECT_DIR$/NetWork/网络层次模型.md" />
-        <option value="$PROJECT_DIR$/Linux/index5.md" />
-        <option value="$PROJECT_DIR$/Linux/index4.md" />
-        <option value="$PROJECT_DIR$/Linux/order.md" />
-        <option value="$PROJECT_DIR$/Linux/index7.md" />
-        <option value="$PROJECT_DIR$/Linux/index8.md" />
-        <option value="$PROJECT_DIR$/服务端/运维/备份.md" />
-        <option value="$PROJECT_DIR$/服务端/Linux基础/index5.md" />
-        <option value="$PROJECT_DIR$/基础/NetWork/网络层次模型.md" />
-        <option value="$PROJECT_DIR$/DB/MySQL/README.md" />
-        <option value="$PROJECT_DIR$/DB/MySQL/2.md" />
-        <option value="$PROJECT_DIR$/基础/Git/READEKE.md" />
-        <option value="$PROJECT_DIR$/服务端/ngnix.md" />
-        <option value="$PROJECT_DIR$/基础/Git/1.md" />
+        <option value="$PROJECT_DIR$/前端/js/Ajax/README.md" />
+        <option value="$PROJECT_DIR$/博客/异步函数发展史/异步与fetch.md" />
+        <option value="$PROJECT_DIR$/博客/js/异步函数发展史/异步与fetch.md" />
+        <option value="$PROJECT_DIR$/博客/js/异步数据获取/1.md" />
+        <option value="$PROJECT_DIR$/前端/js/Promise.md" />
+        <option value="$PROJECT_DIR$/博客/js/异步函数发展史/async.md" />
+        <option value="$PROJECT_DIR$/博客/js/异步函数发展史/Js异步处理方式.md" />
+        <option value="$PROJECT_DIR$/博客/react/aynsc.md" />
+        <option value="$PROJECT_DIR$/博客/js/async/aynsc.md" />
+        <option value="$PROJECT_DIR$/派森算法（我不会放过你的）/1.md" />
+        <option value="$PROJECT_DIR$/服务端/数据库/外键.md" />
+        <option value="$PROJECT_DIR$/算法与数据结构/二叉树前中后序遍历（非递归）.md" />
         <option value="$PROJECT_DIR$/README.MD" />
-        <option value="$PROJECT_DIR$/前端/HTTP.md" />
-        <option value="$PROJECT_DIR$/博客/nextjs/1.md" />
-        <option value="$PROJECT_DIR$/博客/nextjs/1/1.md" />
+        <option value="$PROJECT_DIR$/前端/css.md" />
+        <option value="$PROJECT_DIR$/前端/CSS.md" />
+        <option value="$PROJECT_DIR$/前端/js.md" />
+        <option value="$PROJECT_DIR$/开发/前端/js.md" />
+        <option value="D:/Download/01-HTML.md" />
+        <option value="D:/Download/CSS笔记/CSS.md" />
+        <option value="$PROJECT_DIR$/开发/前端/NodeJs/README.md" />
+        <option value="$PROJECT_DIR$/开发/服务端/Django/知识点.md" />
+        <option value="$PROJECT_DIR$/开发/博客/随笔/1.md" />
+        <option value="$PROJECT_DIR$/面试/js基础/1.md" />
+        <option value="$PROJECT_DIR$/开发/前端/React/redux.md" />
+        <option value="$PROJECT_DIR$/开发/前端/js/柯里化/1.md" />
+        <option value="$PROJECT_DIR$/开发/前端/React/生命周期/1.md" />
+        <option value="$PROJECT_DIR$/开发/前端/React/虚拟DOM/1.md" />
+        <option value="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/HTML.md" />
+        <option value="$PROJECT_DIR$/开发/前端/React/fragments.md" />
+        <option value="$PROJECT_DIR$/开发/前端/js/JavaScript高级程序设计/1.md" />
+        <option value="$PROJECT_DIR$/开发/前端/js/未整理/Ajax/README.md" />
+        <option value="$PROJECT_DIR$/开发/前端/TS/1.md" />
+        <option value="$PROJECT_DIR$/开发/前端/TS/2.md" />
+        <option value="$PROJECT_DIR$/开发/前端/TS/3.md" />
+        <option value="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/sass.md" />
+        <option value="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/CSS.md" />
+        <option value="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/CSS.md" />
+        <option value="$PROJECT_DIR$/开发/服务端/数据库/ACID.md" />
+        <option value="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/1.md" />
+        <option value="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/2.md" />
+        <option value="$PROJECT_DIR$/面试/CSS.md" />
+        <option value="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/flex.md" />
+        <option value="$PROJECT_DIR$/开发/前端/React/路由/1.md" />
+        <option value="$PROJECT_DIR$/开发/前端/React/路由与SPA/1.md" />
+        <option value="$PROJECT_DIR$/开发/前端/React/redux/redux.md" />
+        <option value="$PROJECT_DIR$/研发/计算机网络/缓存.md" />
+        <option value="$PROJECT_DIR$/面试/js基础/js.md" />
+        <option value="$PROJECT_DIR$/研发/计算机网络/https.md" />
+        <option value="$PROJECT_DIR$/开发/前端/js/原型/1.md" />
+        <option value="$PROJECT_DIR$/开发/前端/js/1渲染过程与脚本位置/1.md" />
+        <option value="$PROJECT_DIR$/开发/前端/js/1性能_渲染与脚本位置/1.md" />
       </list>
     </option>
   </component>
@@ -194,7 +270,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,62 +280,77 @@
             <path>
               <item name="LearingNotes" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearingNotes" type="462c0819:PsiDirectoryNode" />
+              <item name="开发" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearingNotes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearingNotes" type="462c0819:PsiDirectoryNode" />
+              <item name="开发" type="462c0819:PsiDirectoryNode" />
               <item name="前端" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LearingNotes" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearingNotes" type="462c0819:PsiDirectoryNode" />
+              <item name="开发" type="462c0819:PsiDirectoryNode" />
               <item name="前端" type="462c0819:PsiDirectoryNode" />
-              <item name="Next" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LearingNotes" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearingNotes" type="462c0819:PsiDirectoryNode" />
-              <item name="博客" type="462c0819:PsiDirectoryNode" />
+              <item name="开发" type="462c0819:PsiDirectoryNode" />
+              <item name="前端" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="1性能_渲染与脚本位置" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LearingNotes" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearingNotes" type="462c0819:PsiDirectoryNode" />
-              <item name="博客" type="462c0819:PsiDirectoryNode" />
-              <item name="nextjs" type="462c0819:PsiDirectoryNode" />
+              <item name="面试" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LearingNotes" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearingNotes" type="462c0819:PsiDirectoryNode" />
-              <item name="博客" type="462c0819:PsiDirectoryNode" />
-              <item name="nextjs" type="462c0819:PsiDirectoryNode" />
-              <item name="1" type="462c0819:PsiDirectoryNode" />
+              <item name="面试" type="462c0819:PsiDirectoryNode" />
+              <item name="js基础" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearingNotes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearingNotes" type="462c0819:PsiDirectoryNode" />
+              <item name="面试" type="462c0819:PsiDirectoryNode" />
+              <item name="React" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/博客/nextjs/1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/开发/前端/框架相关/React/跨域" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\web\LearingNotes\博客\nextjs\1" />
-      <recent name="D:\web\LearingNotes\DB\MySQL" />
-      <recent name="D:\web\LearingNotes\NetWork" />
-      <recent name="D:\web\LearingNotes\demo" />
-      <recent name="D:\web\LearingNotes\js" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\web\LearingNotes\博客\nextjs\1" />
-      <recent name="D:\web\LearingNotes" />
-      <recent name="D:\web\LearingNotes\服务端" />
-      <recent name="D:\web\LearingNotes\基础\Git" />
-      <recent name="D:\web\LearingNotes\基础" />
+      <recent name="D:\web\LearingNotes\开发\前端\js\1性能_渲染与脚本位置" />
+      <recent name="D:\web\LearingNotes\开发\前端\js\原型" />
+      <recent name="D:\web\LearingNotes\开发\前端\框架相关" />
+      <recent name="D:\web\LearingNotes\开发\前端\其他工具" />
+      <recent name="D:\web\LearingNotes\开发\前端\html&amp;&amp;CSS\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\web\LearingNotes\开发\前端\框架相关\React\跨域" />
+      <recent name="D:\web\LearingNotes\开发\前端\html&amp;&amp;CSS" />
+      <recent name="D:\web\LearingNotes\开发\博客\随笔" />
+      <recent name="D:\web\LearingNotes\算法与数据结构" />
+      <recent name="D:\web\LearingNotes\博客\react\async" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -368,12 +458,52 @@
       <workItem from="1575553235204" duration="7021000" />
       <workItem from="1575604314084" duration="10995000" />
       <workItem from="1575627318947" duration="16866000" />
-      <workItem from="1575685187958" duration="14579000" />
+      <workItem from="1575685187958" duration="29668000" />
+      <workItem from="1575774696937" duration="17210000" />
+      <workItem from="1575812119303" duration="1654000" />
+      <workItem from="1575855519548" duration="10025000" />
+      <workItem from="1575885108453" duration="1573000" />
+      <workItem from="1575901843021" duration="2825000" />
+      <workItem from="1575941334795" duration="2343000" />
+      <workItem from="1575987592101" duration="4191000" />
+      <workItem from="1576032516528" duration="6924000" />
+      <workItem from="1576065627033" duration="1708000" />
+      <workItem from="1576119243468" duration="9332000" />
+      <workItem from="1576205300646" duration="6305000" />
+      <workItem from="1576218611974" duration="8227000" />
+      <workItem from="1576548516229" duration="786000" />
+      <workItem from="1576632762033" duration="2747000" />
+      <workItem from="1576831545529" duration="20298000" />
+      <workItem from="1577067417516" duration="759000" />
+      <workItem from="1577111963320" duration="868000" />
+      <workItem from="1577158798008" duration="24356000" />
+      <workItem from="1577243429106" duration="7042000" />
+      <workItem from="1577273276283" duration="4743000" />
+      <workItem from="1577347864094" duration="9341000" />
+      <workItem from="1577415250889" duration="19038000" />
+      <workItem from="1577496359450" duration="5532000" />
+      <workItem from="1577537073066" duration="4883000" />
+      <workItem from="1577599688508" duration="8060000" />
+      <workItem from="1577672430553" duration="9837000" />
+      <workItem from="1577759937204" duration="9224000" />
+      <workItem from="1577802676826" duration="1255000" />
+      <workItem from="1577879646312" duration="2210000" />
+      <workItem from="1577889256472" duration="1723000" />
+      <workItem from="1577893888477" duration="1332000" />
+      <workItem from="1577938262029" duration="7954000" />
+      <workItem from="1577956898619" duration="6933000" />
+      <workItem from="1578022235006" duration="2880000" />
+      <workItem from="1578025815090" duration="4335000" />
+      <workItem from="1578147804204" duration="599000" />
+      <workItem from="1578285344226" duration="599000" />
+      <workItem from="1578476431341" duration="3622000" />
+      <workItem from="1578631972200" duration="4899000" />
+      <workItem from="1578645670572" duration="1762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="469750000" />
+    <option name="totallyTimeSpent" value="724773000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -388,6 +518,31 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19568452" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32843137" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2405892" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -402,7 +557,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32843137" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32733223" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33060557" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -411,271 +566,45 @@
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="right" id="Database" order="6" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/前端/React/bug.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" column="66" selection-start-line="1" selection-start-column="66" selection-end-line="1" selection-end-column="66" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端/js/RE.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端/NodeJs/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="102">
-            <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端/webpack/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1955">
-            <caret line="115" column="30" selection-start-line="115" selection-start-column="30" selection-end-line="115" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机网络/2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端/Babel7/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="527">
-            <caret line="61" column="41" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="41" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端/js/API.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oauth/README.md" />
-    <entry file="file://$PROJECT_DIR$/服务端/运维/rsync.md" />
-    <entry file="file://$PROJECT_DIR$/计算机网络/1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机网络/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/计算机网络/网络层次模型.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="782">
-            <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据库/MySQL/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="799">
-            <caret line="47" column="67" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端/React/react_hooks.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1156">
-            <caret line="68" column="34" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/服务端/Linux基础/index5.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="340">
-            <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/服务端/Linux基础/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/服务端/Linux基础/order.md">
+    <entry file="file://$PROJECT_DIR$/开发/博客/随笔/1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="391">
-            <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+            <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/服务端/Linux基础/index2.md">
+    <entry file="file://$PROJECT_DIR$/开发/工具类/Git/1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="221">
-            <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.684.357/HZ$D.684.358/jokcy-next/server.js" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.684.357/HZ$D.684.359/jokcy-next/package.json" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.375.2472/HZ$D.375.2474/jokcy-next/config.sample.js" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.375.2472/HZ$D.375.2475/jokcy-next/ecosystem.config.js" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.375.2472/HZ$D.375.2476/jokcy-next/next.config.js" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.998.1321/HZ$D.998.1326/jokcy-next/package.json" />
-    <entry file="file://$PROJECT_DIR$/服务端/Linux基础/index3.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="952">
-            <caret line="56" column="25" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/开发/博客/随笔/1.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/服务端/Linux基础/index4.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1377">
-            <caret line="81" column="3" selection-start-line="81" selection-start-column="3" selection-end-line="81" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/服务端/Linux基础/index7.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="272">
-            <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/服务端/Linux基础/index8.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="765">
-            <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/服务端/Linux基础/index6.md">
+    <entry file="file://$PROJECT_DIR$/开发/前端/框架相关/React/生命周期/1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret selection-end-column="17" />
+            <caret column="4" selection-start-column="4" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/服务端/备份.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" selection-start-line="1" selection-end-line="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/服务端/ngnix.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/markdown.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="289">
-            <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/art/1.md" />
-    <entry file="file://$PROJECT_DIR$/网络安全/info-collect.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据库/MySQL/1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据库/MySQL/2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="326">
-            <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据库/MongoDB/README.md">
+    <entry file="file://$PROJECT_DIR$/研发/计算机网络/index.md" />
+    <entry file="file://$PROJECT_DIR$/开发/前端/框架相关/React/bug.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -683,42 +612,169 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据库/redis/README.md">
+    <entry file="file://$PROJECT_DIR$/开发/前端/框架相关/React/fragments.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <first_editor relative-caret-position="374">
+            <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/前端/HTTP.md" />
+    <entry file="file://$PROJECT_DIR$/开发/前端/js/未整理/Ajax/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="272">
+            <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/博客/js/async/aynsc.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1122">
+            <caret line="66" selection-start-line="66" selection-end-line="66" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/前端/其他工具/webpack/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/博客/webpack/1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/前端/框架相关/React/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/前端/框架相关/TS/2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="260">
+            <caret line="76" column="33" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <first_editor relative-caret-position="119">
+            <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/工具类/Git/1.md">
+    <entry file="file://$PROJECT_DIR$/开发/前端/框架相关/TS/1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1156">
-            <caret line="68" column="11" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="11" />
+          <first_editor relative-caret-position="918">
+            <caret line="54" selection-start-line="54" selection-end-line="54" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/博客/nextjs/1/1.png" />
-    <entry file="file://$PROJECT_DIR$/博客/nextjs/1/2.png">
+    <entry file="file://$PROJECT_DIR$/开发/前端/框架相关/TS/3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="221">
+            <caret line="13" selection-start-line="13" selection-end-line="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/sass.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/服务端/数据库/ACID.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="6" selection-start-column="6" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/前端/框架相关/React/路由与SPA/1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/前端/框架相关/React/redux/redux.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/前端/Next/2.md">
+    <entry file="file://$PROJECT_DIR$/开发/前端/js/柯里化/1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="4" selection-start-column="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/前端/框架相关/React/生命周期/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/前端/框架相关/React/redux/redux.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/前端/框架相关/React/虚拟DOM/1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/服务端/Linux基础/index2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -726,7 +782,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/前端/Next/3.md">
+    <entry file="file://$PROJECT_DIR$/开发/服务端/Linux基础/index3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -734,23 +790,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/前端/Next/4.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端/Next/koa.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端/Next/README.md">
+    <entry file="file://$PROJECT_DIR$/研发/计算机网络/缓存.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="51">
@@ -760,25 +800,182 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/博客/nextjs/1/5.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端/Next/1.md">
+    <entry file="file://$PROJECT_DIR$/研发/计算机网络/网络层次模型.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="227">
-            <caret line="71" column="42" lean-forward="true" selection-start-line="71" selection-start-column="42" selection-end-line="71" selection-end-column="42" />
+          <first_editor relative-caret-position="561">
+            <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/博客/nextjs/1/1.md">
+    <entry file="file://$PROJECT_DIR$/研发/计算机网络/https.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="25" selection-start-column="25" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/前端/框架相关/NodeJs/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/服务端/Linux基础/index4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/服务端/ngnix.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/flex.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="58" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/HTML.md" />
+    <entry file="file://$PROJECT_DIR$/面试/CSS.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="238">
-            <caret line="38" column="75" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="75" />
+            <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/服务端/Linux基础/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-49">
+            <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/js基础/1.md" />
+    <entry file="file://$PROJECT_DIR$/开发/前端/js/1性能_渲染与脚本位置/2.png" />
+    <entry file="file://$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/渲染过程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/js基础/js.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="544">
+            <caret line="32" column="102" selection-start-line="26" selection-start-column="1" selection-end-line="32" selection-end-column="102" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/前端/js/原型/1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/React/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/前端/js/原型/原型链.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/React/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/前端/框架相关/React/跨域/跨域.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/React/跨域.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="629">
+            <caret line="37" column="10" lean-forward="true" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/开发/前端/js/1性能_渲染与脚本位置/1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>

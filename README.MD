@@ -6,4 +6,3 @@
 关注个人媒体账号，欢迎各位进行技术讨论，错误指正！  
 [【知乎账号】：均远](https://www.zhihu.com/people/bai-yi-du-jiang-12-83/activities)  
 [【个人博客】：xujunyuan.com](http://xujunyuan.com)  
-【微信公众号】：佛系前端  
