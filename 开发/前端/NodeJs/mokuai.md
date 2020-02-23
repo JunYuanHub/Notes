@@ -36,3 +36,4 @@ node中，没有全局作用域，只有模块作用域：外部/内部互相访
        ```   
  + 原理解析  
     + exports只是引用了=>module.exports。对每个模板的引用最终都是用return的module.exports；对exports赋值会让其脱离module.exports的引用关系
+    所以不建议用exports

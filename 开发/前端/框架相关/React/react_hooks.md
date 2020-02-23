@@ -31,7 +31,7 @@
         return B
     },[dependencies])
     ```
-    默认每次组件重新渲染时执行A，加入dependency控制后，每次检测到dependencies中的state变化时才会执行A,当组件卸载时执行return语句
+    默认每次组件重新渲染时执行A，加入dependency控制后，每次检测到dependencies中的state变化时才会执行A,当组件重新渲染时执行return的清除语句
     + 默认情况，类似于componentDidAmount和DidUpdate  
     + 一般return语句用于清除组件订阅等操作。  
 + useLayoutEffect  

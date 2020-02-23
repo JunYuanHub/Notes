@@ -13,9 +13,7 @@
 var xhr = new XMLHttpRequest();
 //2. 打开浏览器，输入网址
 xhr.open('请求方法',url, '是否异步'); 
-//3. 发送请求
-xhr.send() //post的请求体放入这里的参数
-//4. 获取响应内容，并回调
+//3. 设置回调
 xhr.onload=()=>{console.log(responseText)}
 or
 xhr.onreadystatechange=()=>{
@@ -24,6 +22,8 @@ xhr.onreadystatechange=()=>{
         document.getElementById("myDiv").innerHTML=xmlhttp.responseText;
     }
 }
+//4. 发送请求
+xhr.send() //post的请求体放入这里的参数，下实例详解
 ```  
 onload:成功
 onerror:失败
@@ -33,4 +33,39 @@ onerror:失败
    + 2 => 已经接受到了响应报文的响应头（请求已接受）  
       + 还没有拿到报文体，获取报文头：getAllResponseHeader()（请求处理中） 
    + 3 => 正在下载响应体。有可能为空，也有可能不完整（请求处理完成）  
-   + 4 => 整个报文完整下载 
+   + 4 => 整个报文完整下载  
+   
+## 2. 基于promise简单封装  
+axios便是基于promise的ajax封装  
+```  
+function ajax(options){
+    let op = Object.assign({
+        method:"post",
+        url:"",
+        data:"",
+        headers:{},
+        ayn:true   //是否异步，默认true
+    },options)
+    
+    return new Promise((resolve,reject)=>{
+        let xhr = new XMLHttprequest()
+        
+        xhr.open(op.method, op.url, op.asyn)
+        
+        Object.keys(op.headers).forEach(key => {
+            xhr.setRequestHeader(key,op.headers[key])
+        })
+        
+        xhr.onreadystatechange = ()=>{
+            if(xhr.readyState===4){
+                if(/^[23]\d{2}$/.test(xhr.status)){
+                    resolve(JSON.parse(xhr.responseText))
+                }
+                reject(xhr)
+            }
+        }
+        
+        xhr.send(op.data)
+    })
+}
+```
