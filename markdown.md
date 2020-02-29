@@ -1,7 +1,9 @@
 #Markdown学习笔记 (JetBrains 系列编辑器)
 
 ######Time：2019-10-1　　　Writer:均远
-
+### [jetbrain快捷键](https://www.cnblogs.com/zhuchenglin/p/10058494.html)  
+1. Ctrl + Alt + Shift + T:重构这段代码（显示所有可用的重构），比如if else if 这种语句转switch语句  
+2. ctrl + Alt + 左右：回到历史编辑位置  
 ##Part.1 标题与段落
 * 标题  
 使用 ‘#’ ，1-6个 # 分别代表从大到小的标题样式；或者在段落下一行加上‘====’  
