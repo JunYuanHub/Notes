@@ -3,7 +3,7 @@
 ### 属性  
 1. Set.prototype.constructor：构造函数，默认就是Set函数。  
 2. Set.prototype.size：返回Set实例的成员总数。  
-### 方法  
+### API  
 1. add(value)：添加某个值，返回 Set 结构本身。  
 2. delete(value)：删除某个值，返回一个布尔值，表示删除是否成功。  
 3. has(value)：返回一个布尔值，表示该值是否为Set的成员。  
@@ -35,10 +35,22 @@ let difference = new Set([...a].filter(x => !b.has(x)));
 对象只接受字符串为键名。Map不限，是一种更完善的Hash实现  
 1. 不仅仅是数组，任何具有 Iterator 接口、且每个成员都是一个双元素的数组的数据结构（详见《Iterator》一章）都可以当作Map构造函数的参数。  
 2. 只要两个值严格相等，Map 将其视为一个键，比如0和-0就是一个键，布尔值true和字符串true则是两个不同的键。另外，undefined和null也是两个不同的键。虽然NaN不严格相等于自身，但 Map 将其视为同一个键。  
-## 属性与方法  
+### 属性与方法  
 1. size  
 2. set(key,val)  
 3. get(key)  
 4. has(key)  
 5. delete(key)  
-6. clear()
+6. clear()  
+### WeakMap  
+WeakMap的设计目的在于，有时我们想在某个对象上面存放一些数据，但是这会形成对于这个对象的引用。  
+```  
+const e1 = document.getElementById('foo');
+const e2 = document.getElementById('bar');
+const arr = [
+  [e1, 'foo 元素'],
+  [e2, 'bar 元素'],
+];
+```
+1. 键名只能是对象  
+2. 其他类似WeakSet

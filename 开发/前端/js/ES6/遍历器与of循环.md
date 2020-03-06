@@ -2,13 +2,15 @@
 1. 为各种数据结构，提供一个统一的、简便的访问接口；  
 2. 使得数据结构的成员能够按某种次序排列；  
 3. ES6 创造了一种新的遍历命令for...of循环，Iterator 接口主要供for...of消费。  
-  
+## 区别  
+迭代enumerable是针对for in循环，Object.keys的可列举性。  
+遍历是调用生成器函数接口，是个函数的返回结果（可以瞎返回）
 ## 默认接口  
 概述：可迭代对象的Symbol.iterator，即obj\[Symbol.iterator\]是一个返回迭代器的函数，调用它获取迭代器，同时迭代器会具有next方法、  
 
-ES6 规定，默认的 Iterator 接口部署在数据结构的Symbol.iterator属性，或者说，一个数据结构只要具有Symbol.iterator属性，就可以认为是“可遍历的”  
+数据结构只要具有Symbol.iterator属性，就可以认为是“可遍历的”  
   
-Symbol.iterator属性本身是一个函数，就是当前数据结构默认的遍历器生成函数。执行这个函数，就会返回一个遍历器。至于属性名Symbol.iterator，它是一个表达式，返回Symbol对象的iterator属性，这是一个预定义好的、类型为 Symbol 的特殊值，所以要放在方括号内  
+Symbol.iterator属性本身是一个生成器函数，就是当前数据结构默认的遍历器生成函数。执行这个函数，就会返回一个遍历器。调用时放在方括号里。  
 ```  
 // 直接使用预定义好的
 var someString = "hi";
