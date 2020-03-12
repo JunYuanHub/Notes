@@ -1,58 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/开发/前端/React/react_hooks.md" line="33" />
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb7cbc0-f7b6-4349-a3ab-56f713c1b83e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/C基础/1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/练习题/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/练习题/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/练习题/练习题.md" beforeDir="false" afterPath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/练习题/练习题.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/转义序列.png" beforeDir="false" afterPath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/C基础/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/2.art-template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/NodeJs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/attention.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/help.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/mokuai.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/NodeJs/I模块机制/详解导入导出.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/npm_package.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/html/http版本.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/html/http版本.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/html/状态码.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/html/状态码.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/ES6/Set与Map.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/js/ES6/Set与Map.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/ES6/遍历器与of循环.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/js/ES6/遍历器与of循环.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/功能函数实现/柯里化/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/js/功能函数实现/柯里化/1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/C基础/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/Bas-Knol/1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/C基础/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/Bas-Knol/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/C基础/2-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/Bas-Knol/2-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/C基础/2-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/Bas-Knol/2-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/C基础/2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/Bas-Knol/2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/C基础/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/Bas-Knol/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/C基础/3.md" beforeDir="false" afterPath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/Bas-Knol/3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/markdown.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/开发/前端/js/模块化.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/js/模块化.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/开发/前端/js/碎片知识点.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/js/碎片知识点.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/事件循环机制/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/NodeJs/事件循环机制/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/事件循环机制/node.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/NodeJs/事件循环机制/node.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/常用组件实现/Modal.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/常用组件实现/Modal.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/常用组件实现/文件上传.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/常用组件实现/文件上传.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/移动端适配/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/移动端适配/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/网络编程/https.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/网络应用/https.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/网络编程/浏览器存储/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/网络应用/浏览器存储/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/网络编程/浏览器存储/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/网络应用/浏览器存储/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/网络编程/浏览器存储/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/网络应用/浏览器存储/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/网络编程/浏览器存储/浏览器存储.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/网络应用/浏览器存储/浏览器存储.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/网络编程/缓存.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/网络应用/缓存.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/工具类/Git/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/工具类/Git/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/服务端/Linux基础/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/Unix/Linux基础/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/服务端/Linux基础/index2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Unix/Linux基础/index2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/服务端/Linux基础/index3.md" beforeDir="false" afterPath="$PROJECT_DIR$/Unix/Linux基础/index3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/服务端/Linux基础/index4.md" beforeDir="false" afterPath="$PROJECT_DIR$/Unix/Linux基础/index4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/服务端/Linux基础/index5.md" beforeDir="false" afterPath="$PROJECT_DIR$/Unix/Linux基础/index5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/服务端/Linux基础/index6.md" beforeDir="false" afterPath="$PROJECT_DIR$/Unix/Linux基础/index6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/服务端/Linux基础/index7.md" beforeDir="false" afterPath="$PROJECT_DIR$/Unix/Linux基础/index7.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/服务端/Linux基础/index8.md" beforeDir="false" afterPath="$PROJECT_DIR$/Unix/Linux基础/index8.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/服务端/Linux基础/order.md" beforeDir="false" afterPath="$PROJECT_DIR$/Unix/Linux基础/order.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/算法与数据结构/二叉树/层次遍历-求深度.md" beforeDir="false" afterPath="$PROJECT_DIR$/研发/算法与数据结构/二叉树/层次遍历-求深度.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/算法与数据结构/归并排序.md" beforeDir="false" afterPath="$PROJECT_DIR$/研发/算法与数据结构/归并排序.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/研发/算法与数据结构/大杂烩.md" beforeDir="false" afterPath="$PROJECT_DIR$/研发/算法与数据结构/大杂烩.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -72,108 +51,14 @@
     <favorites_list name="LearingNotes" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unix/Linux基础/order.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unix/Linux基础/vim.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="102">
-                <caret line="6" selection-start-line="6" selection-end-line="6" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/开发/前端/js/碎片知识点.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="475">
-                <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/开发/前端/NodeJs/IV.内存控制/1.md">
+        <entry file="file://$PROJECT_DIR$/开发/前端/网络应用/用户验证机制/1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="492">
-                <caret line="54" column="103" lean-forward="true" selection-start-line="54" selection-start-column="103" selection-end-line="54" selection-end-column="103" />
+              <first_editor relative-caret-position="478">
+                <caret line="82" selection-start-line="82" selection-end-line="82" />
               </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unix/Linux基础/index8.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unix/Linux基础/index7.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unix/Linux基础/index5.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unix/Linux基础/index4.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unix/Linux基础/index2.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unix/Linux基础/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -201,66 +86,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/开发/前端/React/生命周期/1.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/函数组合和管道.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/柯里化/1.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/功能函数实现/千分位.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/功能函数实现/防抖和节流.md" />
-        <option value="$PROJECT_DIR$/开发/前端/web安全/web安全.md" />
-        <option value="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/Grid布局.md" />
-        <option value="$PROJECT_DIR$/开发/前端/网络编程/缓存.md" />
-        <option value="$PROJECT_DIR$/开发/前端/常用组件实现/Modal.md" />
-        <option value="$PROJECT_DIR$/研发/算法与数据结构/数组全排列.md" />
-        <option value="$PROJECT_DIR$/开发/前端/移动端适配/1.md" />
-        <option value="$PROJECT_DIR$/开发/前端/事件循环机制/node.md" />
-        <option value="$PROJECT_DIR$/研发/计算机网络/网络层次模型.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/面试题集/深拷贝与浅拷贝.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/继承.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/类与继承.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/类与继承/继承.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/类与继承/类.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/属性描述对象.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/ES6/类与继承/类.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/ES6/symbol.md" />
-        <option value="$PROJECT_DIR$/markdown.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/ES6/Promise.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/ES6/async和Promise.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/功能函数实现/bind三兄弟.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/ES6/generator.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/功能函数实现/柯里化/1.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/ES6/生成器/generator异步应用.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/ES6/Set与Map.md" />
-        <option value="$PROJECT_DIR$/开发/工具类/Git/1.md" />
-        <option value="$PROJECT_DIR$/研发/算法与数据结构/归并排序.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/ES6/遍历器与of循环.md" />
-        <option value="$PROJECT_DIR$/研发/算法与数据结构/二叉树/二叉树前中后序遍历（非递归）.md" />
-        <option value="$PROJECT_DIR$/研发/算法与数据结构/二叉树/层次遍历-求深度.md" />
-        <option value="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/html/http版本.md" />
-        <option value="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/html/状态码.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/ES6/拦截proxy.md" />
-        <option value="$PROJECT_DIR$/开发/前端/NodeJs/npm_package.md" />
-        <option value="$PROJECT_DIR$/开发/前端/NodeJs/模块机制/模块机制.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/模块化.md" />
-        <option value="$PROJECT_DIR$/开发/前端/NodeJs/README.md" />
-        <option value="$PROJECT_DIR$/Unix/C &amp;&amp; C++/1.md" />
-        <option value="$PROJECT_DIR$/Unix/C &amp;&amp; C++/C基础/2.md" />
-        <option value="$PROJECT_DIR$/Unix/C &amp;&amp; C++/C基础/1.md" />
-        <option value="$PROJECT_DIR$/开发/前端/NodeJs/II异步IO/1.md" />
-        <option value="$PROJECT_DIR$/研发/计算机网络/HTTP.md" />
-        <option value="$PROJECT_DIR$/开发/前端/NodeJs/III.异步编程/1.md" />
-        <option value="$PROJECT_DIR$/Unix/C &amp;&amp; C++/C基础/3.md" />
-        <option value="$PROJECT_DIR$/Unix/Linux基础/vim.md" />
-        <option value="$PROJECT_DIR$/开发/前端/js/碎片知识点.md" />
-        <option value="$PROJECT_DIR$/开发/前端/NodeJs/IV.内存控制/1.md" />
+        <option value="$PROJECT_DIR$/开发/前端/网络应用/用户验证机制/1.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="6" />
     <option name="y" value="11" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectId" id="1YygDNAq0M68m8vq3b7MOXaYf5f" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -269,6 +105,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -292,40 +129,52 @@
               <item name="LearingNotes" type="462c0819:PsiDirectoryNode" />
               <item name="开发" type="462c0819:PsiDirectoryNode" />
               <item name="前端" type="462c0819:PsiDirectoryNode" />
-              <item name="NodeJs" type="462c0819:PsiDirectoryNode" />
+              <item name="网络应用" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearingNotes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearingNotes" type="462c0819:PsiDirectoryNode" />
+              <item name="开发" type="462c0819:PsiDirectoryNode" />
+              <item name="前端" type="462c0819:PsiDirectoryNode" />
+              <item name="网络应用" type="462c0819:PsiDirectoryNode" />
+              <item name="用户验证机制" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editorconfig.notification" value="View&#10;" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/开发/前端/NodeJs/IV.内存控制" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/开发/前端/网络应用/用户验证机制" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\web\LearingNotes\开发\前端\NodeJs\IV.内存控制" />
-      <recent name="D:\web\LearingNotes\Unix\C &amp;&amp; C++\C基础" />
-      <recent name="D:\web\LearingNotes\开发\前端\NodeJs\II异步IO" />
-      <recent name="D:\web\LearingNotes\研发\计算机网络" />
-      <recent name="D:\web\LearingNotes\开发\前端\NodeJs\模块机制" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\web\LearingNotes\开发\前端\网络应用\用户验证机制" />
+      <recent name="D:\web\LearingNotes\开发\前端\webpack\插件" />
       <recent name="D:\web\LearingNotes\Unix" />
       <recent name="D:\web\LearingNotes\Unix\C &amp;&amp; C++\C基础" />
       <recent name="D:\web\LearingNotes\Unix\C++" />
-      <recent name="D:\web\LearingNotes\研发\计算机网络" />
-      <recent name="D:\web\LearingNotes\研发" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\web\LearingNotes\开发\前端\网络应用\用户验证机制" />
+      <recent name="D:\web\LearingNotes\Unix\C &amp;&amp; C++\C基础" />
+      <recent name="D:\web\LearingNotes\开发\前端\NodeJs\VII.进程" />
+      <recent name="D:\web\LearingNotes\开发\前端\NodeJs\VI.网络编程" />
+      <recent name="D:\web\LearingNotes\开发\前端\NodeJs\IV.内存控制" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -538,12 +387,23 @@
       <workItem from="1583374109187" duration="19662000" />
       <workItem from="1583463106465" duration="5305000" />
       <workItem from="1583489182734" duration="3987000" />
-      <workItem from="1583500441721" duration="9658000" />
+      <workItem from="1583500441721" duration="12704000" />
+      <workItem from="1583549298210" duration="16690000" />
+      <workItem from="1583583905375" duration="5631000" />
+      <workItem from="1583640885510" duration="3115000" />
+      <workItem from="1583656330787" duration="13837000" />
+      <workItem from="1583731603593" duration="1103000" />
+      <workItem from="1583751405799" duration="2036000" />
+      <workItem from="1583796304904" duration="27835000" />
+      <workItem from="1583896052856" duration="743000" />
+      <workItem from="1583920133800" duration="130000" />
+      <workItem from="1583920421191" duration="6044000" />
+      <workItem from="1583978114592" duration="4733000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1081145000" />
+    <option name="totallyTimeSpent" value="4733000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -555,434 +415,50 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17931548" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3289689" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="TODO" order="10" weight="0.32733223" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.47058824" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="R Graphics" order="4" />
-      <window_info anchor="right" id="R Packages" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.125" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="TODO" order="10" weight="0.32843137" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33060557" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="R Graphics" order="4" />
-      <window_info anchor="right" id="R Packages" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-    </layout-to-restore>
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Notifications" timestamp="1583920465020">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1583920465020" />
+    <state x="385" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583920776662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="385" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1583920776662" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/研发/算法与数据结构/二叉树/二叉树前中后序遍历（非递归）.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="969">
-            <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/研发/算法与数据结构/归并排序.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="527">
-            <caret line="31" column="60" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/React/redux/redux.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/js/ES6/遍历器与of循环.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="102">
-            <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/html/状态码.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/js/属性描述对象.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="526">
-            <caret line="75" column="85" selection-start-line="75" selection-start-column="85" selection-end-line="75" selection-end-column="85" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/js/ES6/拦截proxy.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="170">
-            <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/NodeJs/事件循环机制/node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="289">
-            <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/NodeJs/I模块机制/2.png">
+    <entry file="file://$PROJECT_DIR$/开发/前端/网络应用/用户验证机制/4.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/NodeJs/npm_package.md" />
-    <entry file="file://$PROJECT_DIR$/开发/前端/NodeJs/help.md" />
-    <entry file="file://$PROJECT_DIR$/开发/前端/NodeJs/2.art-template.md" />
-    <entry file="file://$PROJECT_DIR$/开发/前端/NodeJs/1.main.md">
+    <entry file="file://$PROJECT_DIR$/开发/前端/网络应用/用户验证机制/1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/NodeJs/attention.md" />
-    <entry file="file://$PROJECT_DIR$/研发/计算机网络/各类协议模型.jpg" />
-    <entry file="file://$PROJECT_DIR$/研发/计算机网络/协议模型.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/NodeJs/I模块机制/模块机制.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="492">
-            <caret line="102" column="29" selection-start-line="102" selection-start-column="29" selection-end-line="102" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/NodeJs/I模块机制/详解导入导出.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/js/模块化.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="493">
-            <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/NodeJs/express.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/NodeJs/II异步IO/3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/NodeJs/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/flex.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-357" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/Grid布局.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/杂乱.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unix/C &amp;&amp; C++/C基础/1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unix/C &amp;&amp; C++/C基础/2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unix/C &amp;&amp; C++/C基础/2-1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unix/C &amp;&amp; C++/C基础/2-2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unix/C &amp;&amp; C++/C基础/1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="459">
-            <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/js/功能函数实现/柯里化/1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/js/功能函数实现/千分位.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/NodeJs/II异步IO/1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="391">
-            <caret line="23" selection-start-line="23" selection-end-line="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/NodeJs/III.异步编程/1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="646">
-            <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unix/C &amp;&amp; C++/C基础/2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/研发/计算机网络/HTTP.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unix/C &amp;&amp; C++/C基础/3.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="85">
-            <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/服务端/ngnix.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/服务端/备份.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unix/Linux基础/order.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unix/Linux基础/vim.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="102">
-            <caret line="6" selection-start-line="6" selection-end-line="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unix/Linux基础/index8.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unix/Linux基础/index7.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unix/Linux基础/index5.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unix/Linux基础/index4.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unix/Linux基础/index2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unix/Linux基础/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/js/碎片知识点.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="475">
-            <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/开发/前端/NodeJs/IV.内存控制/1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="492">
-            <caret line="54" column="103" lean-forward="true" selection-start-line="54" selection-start-column="103" selection-end-line="54" selection-end-column="103" />
+          <first_editor relative-caret-position="478">
+            <caret line="82" selection-start-line="82" selection-end-line="82" />
           </first_editor>
           <second_editor />
         </state>
