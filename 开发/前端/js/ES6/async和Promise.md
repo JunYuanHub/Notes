@@ -24,8 +24,10 @@ const asyncReadFile = async function () {
 1. async函数返回一个 Promise 对象，可以使用then方法添加回调函数。当函数执行的时候，一旦遇到await就会先返回，等到异步操作完成，再接着执行函数体内后面的语句。  
 2. async函数返回的 Promise 对象，必须等到内部所有await命令后面的 Promise 对象执行完，才会发生状态改变，除非遇到return语句或者抛出错误。也就是说，只有async函数内部的异步操作执行完，才会执行then方法指定的回调函数。  
 ### await  
-1. await命令后面，可以是 Promise 对象和原始类型的值（数值、字符串和布尔值，但这时会自动转成立即 resolved 的 Promise 对象）。  
-2. 另一种情况是，await命令后面是一个thenable对象（即定义then方法的对象），那么await会将其等同于 Promise 对象。  
+所以await后跟的表达式不同，有两种处理结果
+1. 对于promise对象，await会阻塞函数执行，等待promise的resolve返回值，作为await的结果，然后再执行下下一个表达式
+2. 对于非promise对象，比如箭头函数，同步表达式等等，await等待函数或者直接量的返回，而不是等待其执行结果  
+3. 另一种情况是，await命令后面是一个thenable对象（即定义then方法的对象），那么await会将其等同于 Promise 对象。  
   
 ### 应用与注意事项  
 1. 实现sleep函数(await+setTimeout)  
