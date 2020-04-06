@@ -11,9 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4eb7cbc0-f7b6-4349-a3ab-56f713c1b83e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Finance/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Finance/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融体系概览/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Finance/货币金融学/II金融体系概览/I金融市场体系.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/React/redux/redux.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发/前端/React/redux/redux.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -343,7 +340,7 @@
       <workItem from="1585737554764" duration="1938000" />
       <workItem from="1585752066766" duration="3875000" />
       <workItem from="1585890651640" duration="1688000" />
-      <workItem from="1586149516574" duration="350000" />
+      <workItem from="1586149516574" duration="1153000" />
     </task>
     <servers />
   </component>
