@@ -35,5 +35,5 @@ thunk.withExtraArgument = createThunkMiddleware;
 
 export default thunk;
 ```  
-[](https://www.cnblogs.com/rock-roll/p/10763383.html)  
-[](https://www.jianshu.com/p/a4ab789790b2)
+[参考文献1](https://www.cnblogs.com/rock-roll/p/10763383.html)  
+[参考文献2](https://www.jianshu.com/p/a4ab789790b2)
