@@ -2,6 +2,8 @@
 
 ######Time：2019-10-1　　　Writer:均远
 ### [jetbrain快捷键](https://www.cnblogs.com/zhuchenglin/p/10058494.html)  
+1. 选中多个相同字符串：control + g;
+2. 全选：control + command + g  
 1. Ctrl + Alt + Shift + T:重构这段代码（显示所有可用的重构），比如if else if 这种语句转switch语句  
 2. ctrl + Alt + 左右：回到历史编辑位置  
 3. ctrl + alt + l : 整理代码
