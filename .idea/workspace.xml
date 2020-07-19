@@ -29,221 +29,300 @@
   <component name="ChangeListManager">
     <list default="true" id="4eb7cbc0-f7b6-4349-a3ab-56f713c1b83e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Finance/1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Finance/公众号/1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融体系概览/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Finance/货币金融学/I金融体系/II金融体系概览/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融体系概览/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Finance/货币金融学/I金融体系/II金融体系概览/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融体系概览/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Finance/货币金融学/I金融体系/II金融体系概览/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融体系概览/II金融中介.md" beforeDir="false" afterPath="$PROJECT_DIR$/Finance/货币金融学/I金融体系/II金融体系概览/II金融中介.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融体系概览/I金融市场体系.md" beforeDir="false" afterPath="$PROJECT_DIR$/Finance/货币金融学/I金融体系/II金融体系概览/I金融市场体系.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/I为什么研究货币，银行和金融市场/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Finance/货币金融学/I金融体系/概论/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/markdown.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spielvogel/1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/targets.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/question.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/question.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/1.main.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/1.main.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/III.异步编程/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/III.异步编程/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/II异步IO/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/II异步IO/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/II异步IO/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/II异步IO/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/II异步IO/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/II异步IO/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/II异步IO/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/II异步IO/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/II异步IO/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/II异步IO/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/II异步IO/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/II异步IO/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/IV.内存控制/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/IV.内存控制/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/IV.内存控制/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/IV.内存控制/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/I模块机制/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/I模块机制/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/I模块机制/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/I模块机制/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/I模块机制/模块机制.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/I模块机制/模块机制.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/I模块机制/详解导入导出.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/I模块机制/详解导入导出.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/V.Buffer/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/V.Buffer/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/VI.网络编程/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/VI.网络编程/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/VI.网络编程/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/VI.网络编程/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/VI.网络编程/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/VI.网络编程/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/VII.进程/1-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/VII.进程/1-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/VII.进程/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/VII.进程/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/VII.进程/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/VII.进程/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/VII.进程/2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/VII.进程/2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/VII.进程/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/VII.进程/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/VII.进程/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/VII.进程/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/VII.进程/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/VII.进程/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/express.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/express.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/fs.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/fs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/koa中间件.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/koa中间件.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/事件循环机制/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/事件循环机制/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/NodeJs/事件循环机制/node.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/NodeJs/事件循环机制/node.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/React/bug.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/React/bug.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/React/context.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/React/context.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/React/fragments.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/React/fragments.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/React/react-babel.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/React/react-babel.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/React/react_hooks.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/React/react_hooks.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/React/redux/redux.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/React/redux/redux.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/React/redux/redux.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/React/redux/redux.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/React/源码解读/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/React/源码解读/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/React/综述/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/React/综述/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/React/综述/III.组件设计与复用.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/React/综述/III.组件设计与复用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/React/综述/II属性与状态.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/React/综述/II属性与状态.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/React/综述/I组件与周期.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/React/综述/I组件与周期.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/React/综述/Ref.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/React/综述/Ref.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/React/综述/diff.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/React/综述/diff.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/React/综述/生命周期/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/React/综述/生命周期/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/React/综述/生命周期/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/React/综述/生命周期/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/React/综述/生命周期/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/React/综述/生命周期/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/React/虚拟DOM/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/React/虚拟DOM/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/React/路由与SPA/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/React/路由与SPA/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/TS/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/TS/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/TS/2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/TS/2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/TS/3.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/TS/3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/TS/tsx/tsx.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/TS/tsx/tsx.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/TS/tsx/tsx.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/TS/tsx/tsx.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/TS/配置文件.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/TS/配置文件.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/css/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/css/2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/Grid布局.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/css/Grid布局.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/flex.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/css/flex.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/loading效果.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/css/loading效果.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/sass.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/css/sass.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/杂乱.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/css/杂乱.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/css/清除浮动.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/css/清除浮动.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/html/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/html/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/html/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/html/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/html/canvas.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/html/canvas.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/html/https.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/html/https.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/html/http版本.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/html/http版本.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/html/渲染过程.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/html/渲染过程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/html/状态码.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/html/状态码.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/html/缓存.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/html/缓存.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/常用组件实现/Modal.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/常用组件实现/Modal.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/常用组件实现/文件上传.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/常用组件实现/文件上传.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/html&amp;&amp;CSS/移动端适配/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/移动端适配/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/1性能_渲染与脚本位置/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/1性能_渲染与脚本位置/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/1性能_渲染与脚本位置/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/1性能_渲染与脚本位置/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/1性能_渲染与脚本位置/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/1性能_渲染与脚本位置/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/Async与生成器.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/Async与生成器.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/ES6/ArrayBuffer.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/ES6/ArrayBuffer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/ES6/Set与Map.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/ES6/Set与Map.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/ES6/async和Promise.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/ES6/async和Promise.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/ES6/symbol.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/ES6/symbol.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/ES6/拦截proxy.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/ES6/拦截proxy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/ES6/数据类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/ES6/数据类型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/ES6/生成器/generator.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/ES6/生成器/generator.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/ES6/生成器/generator异步应用.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/ES6/生成器/generator异步应用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/ES6/类与继承/类.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/ES6/类与继承/类.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/ES6/类与继承/继承.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/ES6/类与继承/继承.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/ES6/遍历器与of循环.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/ES6/遍历器与of循环.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/ajax.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/ajax.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/jsonp.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/jsonp.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/this.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/this.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/作用域与垃圾收集.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/作用域与垃圾收集.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/兼容性.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/兼容性.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/原型/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/原型/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/原型/原型链.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/原型/原型链.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/原生DOM操作.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/原生DOM操作.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/属性描述对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/属性描述对象.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/应用/前端路由.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/应用/前端路由.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/应用/功能函数实现/bind三兄弟.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/应用/功能函数实现/bind三兄弟.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/应用/功能函数实现/函数组合和管道.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/应用/功能函数实现/函数组合和管道.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/应用/功能函数实现/千分位.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/应用/功能函数实现/千分位.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/应用/功能函数实现/柯里化/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/应用/功能函数实现/柯里化/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/应用/功能函数实现/防抖和节流.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/应用/功能函数实现/防抖和节流.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/应用/发布订阅.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/应用/发布订阅.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/应用/图片懒加载.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/应用/图片懒加载.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/应用/深拷贝与浅拷贝.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/应用/深拷贝与浅拷贝.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/应用/进度条.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/应用/进度条.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/未整理/API.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/未整理/API.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/未整理/JQuery/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/未整理/JQuery/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/未整理/Promise.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/未整理/Promise.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/未整理/RE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/RE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/未整理/promise.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/未整理/promise.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/模块化.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/模块化.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/碎片知识点.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/碎片知识点.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/js/绘制相关/requestAnimationFrame.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/js/绘制相关/requestAnimationFrame.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/webpack/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/webpack/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/webpack/loader.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/webpack/loader.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/webpack/原理/插件.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/webpack/原理/插件.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/webpack/插件/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/webpack/插件/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/webpack/插件/插件.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/webpack/插件/插件.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/webpack/插件/插件钩子.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/webpack/插件/插件钩子.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/webpack/构建流程.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/webpack/构建流程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/web安全/web安全.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/web安全/web安全.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/其他工具/Babel7/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/其他工具/Babel7/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/其他工具/webpack/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/其他工具/webpack/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/框架相关/Next/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/框架相关/Next/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/框架相关/Next/2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/框架相关/Next/2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/框架相关/Next/3.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/框架相关/Next/3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/框架相关/Next/4.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/框架相关/Next/4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/框架相关/Next/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/框架相关/Next/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/框架相关/Next/koa.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/框架相关/Next/koa.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/网络应用/https.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/网络应用/https.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/网络应用/浏览器存储/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/网络应用/浏览器存储/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/网络应用/浏览器存储/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/网络应用/浏览器存储/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/网络应用/浏览器存储/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/网络应用/浏览器存储/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/网络应用/浏览器存储/浏览器存储.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/网络应用/浏览器存储/浏览器存储.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/网络应用/用户验证机制/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/网络应用/用户验证机制/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/网络应用/用户验证机制/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/网络应用/用户验证机制/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/网络应用/用户验证机制/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/网络应用/用户验证机制/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/网络应用/用户验证机制/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/网络应用/用户验证机制/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/前端/网络应用/缓存.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/前端/网络应用/缓存.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/博客/js/async/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/博客/js/async/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/博客/js/async/aynsc.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/博客/js/async/aynsc.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/博客/nextjs/1/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/博客/nextjs/1/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/博客/nextjs/1/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/博客/nextjs/1/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/博客/nextjs/1/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/博客/nextjs/1/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/博客/nextjs/1/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/博客/nextjs/1/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/博客/nextjs/1/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/博客/nextjs/1/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/博客/nextjs/2/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/博客/nextjs/2/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/博客/nextjs/2/2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/博客/nextjs/2/2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/博客/nextjs/2/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/博客/nextjs/2/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/博客/react/React跨域（v16.9）/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/博客/react/React跨域（v16.9）/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/博客/react/React跨域（v16.9）/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/博客/react/React跨域（v16.9）/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/博客/react/React跨域（v16.9）/跨域.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/博客/react/React跨域（v16.9）/跨域.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/博客/webpack/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/博客/webpack/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/博客/随笔/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/博客/随笔/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/博客/随笔/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/博客/随笔/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/博客/随笔/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/博客/随笔/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/工具类/Git/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/工具类/Git/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/工具类/Git/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/工具类/Git/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/服务端/Django/知识点.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/服务端/Django/知识点.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/服务端/ngnix.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/服务端/ngnix.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/服务端/备份.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/服务端/备份.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/服务端/数据库/ACID.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/服务端/数据库/ACID.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/服务端/数据库/MongoDB/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/服务端/数据库/MongoDB/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/服务端/数据库/MySQL/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/服务端/数据库/MySQL/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/服务端/数据库/MySQL/2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/服务端/数据库/MySQL/2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/服务端/数据库/MySQL/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/服务端/数据库/MySQL/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/服务端/数据库/redis/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/服务端/数据库/redis/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开发/服务端/数据库/外键.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dev/服务端/数据库/外键.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/DL/I基本概念/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/DL/I基本概念/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/DL/I基本概念/2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/DL/I基本概念/2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/DL/I基本概念/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/DL/I基本概念/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/DL/I基本概念/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/DL/I基本概念/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/DL/I基本概念/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/DL/I基本概念/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/DL/I基本概念/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/DL/I基本概念/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/DL/I基本概念/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/DL/I基本概念/6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/DL/I基本概念/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/DL/I基本概念/7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/DL/I基本概念/I基本概念.md" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/DL/I基本概念/I基本概念.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/DL/矩阵求导.md" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/DL/矩阵求导.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/算法与数据结构/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/算法与数据结构/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/算法与数据结构/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/算法与数据结构/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/算法与数据结构/二叉树/二叉树前中后序遍历（非递归）.md" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/算法与数据结构/二叉树/二叉树前中后序遍历（非递归）.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/算法与数据结构/二叉树/二叉树序列号与重建.md" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/算法与数据结构/二叉树/二叉树序列号与重建.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/算法与数据结构/二叉树/层次遍历-求深度.md" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/算法与数据结构/二叉树/层次遍历-求深度.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/算法与数据结构/堆排序.md" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/算法与数据结构/堆排序.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/算法与数据结构/大杂烩.md" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/算法与数据结构/大杂烩.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/算法与数据结构/归并排序.md" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/算法与数据结构/归并排序.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/算法与数据结构/数组全排列.md" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/算法与数据结构/数组全排列.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/网络安全/info-collect.md" beforeDir="false" afterPath="$PROJECT_DIR$/Net/网络安全/info-collect.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/计算机网络/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Net/计算机网络/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/计算机网络/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Net/计算机网络/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/计算机网络/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Net/计算机网络/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/计算机网络/HTTP.md" beforeDir="false" afterPath="$PROJECT_DIR$/Net/计算机网络/HTTP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/计算机网络/协议模型.png" beforeDir="false" afterPath="$PROJECT_DIR$/Net/计算机网络/协议模型.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/研发/计算机网络/网络层次模型.md" beforeDir="false" afterPath="$PROJECT_DIR$/Net/计算机网络/网络层次模型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/CSS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/React/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/React/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/React/跨域.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/js基础/js.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/DL/I基本概念/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/DL/I基本概念/2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/DL/I基本概念/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/DL/I基本概念/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/DL/I基本概念/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/DL/I基本概念/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/DL/I基本概念/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/DL/I基本概念/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/DL/I基本概念/I基本概念.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/DL/矩阵求导.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/算法与数据结构/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/算法与数据结构/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/算法与数据结构/二叉树/二叉树前中后序遍历（非递归）.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/算法与数据结构/二叉树/二叉树序列号与重建.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/算法与数据结构/二叉树/层次遍历-求深度.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/算法与数据结构/堆排序.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/算法与数据结构/大杂烩.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/算法与数据结构/归并排序.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/算法与数据结构/数组全排列.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Career/打破僵局.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Career/日志.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Career/横向领导力.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/question.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/Exp/设计.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/1.main.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/III.异步编程/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/II异步IO/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/II异步IO/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/II异步IO/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/II异步IO/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/II异步IO/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/II异步IO/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/IV.内存控制/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/IV.内存控制/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/I模块机制/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/I模块机制/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/I模块机制/模块机制.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/I模块机制/详解导入导出.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/V.Buffer/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/VI.网络编程/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/VI.网络编程/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/VI.网络编程/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/VII.进程/1-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/VII.进程/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/VII.进程/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/VII.进程/2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/VII.进程/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/VII.进程/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/VII.进程/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/express.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/fs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/koa中间件.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/事件循环机制/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/NodeJs/事件循环机制/node.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/React/bug.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/React/context.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/React/fragments.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/React/react-babel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/React/react_hooks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/React/redux/redux.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/React/redux/redux.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/React/源码解读/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/React/综述/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/React/综述/III.组件设计与复用.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/React/综述/II属性与状态.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/React/综述/I组件与周期.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/React/综述/Ref.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/React/综述/diff.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/React/综述/生命周期/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/React/综述/生命周期/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/React/综述/生命周期/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/React/虚拟DOM/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/React/路由与SPA/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/TS/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/TS/2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/TS/3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/TS/tsx/tsx.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/TS/tsx/tsx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/TS/配置文件.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/css/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/css/2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/css/Grid布局.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/css/flex.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/css/loading效果.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/css/sass.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/css/杂乱.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/css/清除浮动.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/html/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/html/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/html/canvas.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/html/https.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/html/http版本.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/html/渲染过程.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/html/状态码.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/html/缓存.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/常用组件实现/Modal.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/常用组件实现/文件上传.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/html&amp;&amp;CSS/移动端适配/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/1性能_渲染与脚本位置/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/1性能_渲染与脚本位置/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/1性能_渲染与脚本位置/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/Async与生成器.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/ES6/ArrayBuffer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/ES6/Set与Map.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/ES6/async和Promise.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/ES6/symbol.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/ES6/拦截proxy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/ES6/数据类型.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/ES6/生成器/generator.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/ES6/生成器/generator异步应用.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/ES6/类与继承/类.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/ES6/类与继承/继承.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/ES6/遍历器与of循环.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/RE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/ajax.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/jsonp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/this.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/作用域与垃圾收集.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/兼容性.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/原型/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/原型/原型链.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/原生DOM操作.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/属性描述对象.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/应用/前端路由.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/应用/功能函数实现/bind三兄弟.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/应用/功能函数实现/new.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/应用/功能函数实现/函数组合和管道.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/应用/功能函数实现/千分位.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/应用/功能函数实现/柯里化/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/应用/功能函数实现/防抖和节流.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/应用/发布订阅.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/应用/图片懒加载.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/应用/深拷贝与浅拷贝.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/应用/进度条.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/未整理/API.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/未整理/JQuery/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/未整理/Promise.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/未整理/promise.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/模块化.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/碎片知识点.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/js/绘制相关/requestAnimationFrame.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/webpack/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/webpack/loader.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/webpack/原理/插件.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/webpack/插件/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/webpack/插件/插件.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/webpack/插件/插件钩子.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/webpack/构建流程.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/web安全/web安全.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/其他工具/Babel7/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/其他工具/webpack/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/娱乐.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/框架相关/Next/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/框架相关/Next/2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/框架相关/Next/3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/框架相关/Next/4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/框架相关/Next/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/框架相关/Next/koa.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/网络应用/https.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/网络应用/浏览器存储/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/网络应用/浏览器存储/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/网络应用/浏览器存储/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/网络应用/浏览器存储/浏览器存储.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/网络应用/用户验证机制/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/网络应用/用户验证机制/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/网络应用/用户验证机制/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/网络应用/用户验证机制/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/前端/网络应用/缓存.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/博客/js/async/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/博客/js/async/aynsc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/博客/nextjs/1/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/博客/nextjs/1/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/博客/nextjs/1/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/博客/nextjs/1/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/博客/nextjs/1/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/博客/nextjs/2/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/博客/nextjs/2/2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/博客/nextjs/2/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/博客/react/React跨域（v16.9）/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/博客/react/React跨域（v16.9）/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/博客/react/React跨域（v16.9）/跨域.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/博客/webpack/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/博客/随笔/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/博客/随笔/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/博客/随笔/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/工具类/Git/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/工具类/Git/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Django/知识点.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/IO/File.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/IO/encode.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/IO/img/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/IO/img/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/IO/serializable.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/IO/stream.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/tips.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/内部类.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/垃圾回收机制.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/基本数据类型.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/多线程/I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/多线程/III多线程编程.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/多线程/II线程安全.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/多线程/img/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/字符串/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/容器/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/容器/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/异常/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/异常/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/执行顺序/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/执行顺序/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/抽象类与接口/抽象类.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/数组/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/新语法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/类型与泛型.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/Java/类型转化.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/ngnix.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/备份.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/数据库/ACID.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/数据库/MongoDB/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/数据库/MySQL/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/数据库/MySQL/2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/数据库/MySQL/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/数据库/redis/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev/服务端/数据库/外键.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/III金融机构/II银行管理/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/III金融机构/II银行管理/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/III金融机构/I金融结构分析/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/III金融机构/I金融结构分析/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/III金融机构/I金融结构分析/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融市场/III利率结构/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融市场/III利率结构/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融市场/III利率结构/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融市场/III利率结构/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融市场/III利率结构/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融市场/II利率行为/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融市场/II利率行为/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融市场/II利率行为/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融市场/II利率行为/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融市场/II利率行为/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融市场/II利率行为/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融市场/IV股票估值/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融市场/IV股票估值/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融市场/IV股票估值/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融市场/IV股票估值/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融市场/IV股票估值/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融市场/I利率/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融市场/I利率/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/II金融市场/I利率/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/I金融体系/II金融体系概览/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/I金融体系/II金融体系概览/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/I金融体系/II金融体系概览/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/I金融体系/II金融体系概览/II金融中介.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/I金融体系/II金融体系概览/I金融市场体系.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance/货币金融学/I金融体系/概论/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Net/TCP-IP/I链路层.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Net/TCP-IP/img/1-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Net/TCP-IP/img/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Net/TCP-IP/img/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Net/TCP-IP/概论.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Net/网络安全/info-collect.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Net/计算机网络/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Net/计算机网络/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Net/计算机网络/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Net/计算机网络/HTTP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Net/计算机网络/协议模型.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Net/计算机网络/网络层次模型.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/Bas-Knol/tips.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/Bas-Knol/大杂烩/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/Bas-Knol/大杂烩/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/Bas-Knol/大杂烩/2-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/Bas-Knol/大杂烩/2-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/Bas-Knol/大杂烩/2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/Bas-Knol/大杂烩/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/Bas-Knol/大杂烩/3-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/Bas-Knol/大杂烩/3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/Bas-Knol/字符串.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/Bas-Knol/存储类别与内存管理/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/Bas-Knol/存储类别与内存管理/存储类别、链接和内存管理.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/Bas-Knol/指针.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/Expert C Programing/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/练习题/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/C &amp;&amp; C++/练习题/练习题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/Linux基础/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/Linux基础/index2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/Linux基础/index3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/Linux基础/index4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/Linux基础/index5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/Linux基础/index6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/Linux基础/index7.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/Linux基础/index8.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/Linux基础/order.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/Linux基础/vim.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/OS/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unix/linux命令.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -300,11 +379,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Dev/服务端/Java/多线程/img" />
-      <recent name="$PROJECT_DIR$/Dev/服务端/Java/多线程" />
-      <recent name="$PROJECT_DIR$/Dev/服务端/Java/IO/img" />
-      <recent name="$PROJECT_DIR$/Dev/服务端/Java/IO" />
-      <recent name="$PROJECT_DIR$/网络" />
+      <recent name="$PROJECT_DIR$/Finance/证券分析/II固定价值投资/img" />
+      <recent name="$PROJECT_DIR$/Finance/证券分析/I调查及方法/img" />
+      <recent name="$PROJECT_DIR$/Finance/证券分析/I证券分析" />
+      <recent name="$PROJECT_DIR$/Finance/证券分析" />
+      <recent name="$PROJECT_DIR$/Dev/前端/CSS " />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\web\LearingNotes\Finance\货币金融学\II金融体系概览" />
@@ -584,6 +663,29 @@
       <workItem from="1589171254700" duration="14000" />
       <workItem from="1589177238213" duration="8000" />
       <workItem from="1589269850035" duration="134000" />
+      <workItem from="1589342671114" duration="505000" />
+      <workItem from="1589617701221" duration="949000" />
+      <workItem from="1589634789984" duration="4000" />
+      <workItem from="1589734404826" duration="1265000" />
+      <workItem from="1589805042174" duration="1206000" />
+      <workItem from="1589856336526" duration="404000" />
+      <workItem from="1589893187874" duration="5514000" />
+      <workItem from="1589992080789" duration="1152000" />
+      <workItem from="1590163625022" duration="558000" />
+      <workItem from="1590283460566" duration="153000" />
+      <workItem from="1590391884010" duration="135000" />
+      <workItem from="1590979454118" duration="237000" />
+      <workItem from="1591372046438" duration="18274000" />
+      <workItem from="1591587459400" duration="256000" />
+      <workItem from="1591716938248" duration="418000" />
+      <workItem from="1591750458862" duration="11000" />
+      <workItem from="1591810298177" duration="1837000" />
+      <workItem from="1591859140077" duration="592000" />
+      <workItem from="1591892973151" duration="256000" />
+      <workItem from="1591935913959" duration="1128000" />
+      <workItem from="1592455375990" duration="1075000" />
+      <workItem from="1592970371596" duration="9000" />
+      <workItem from="1594351198389" duration="222000" />
     </task>
     <servers />
   </component>
@@ -616,16 +718,16 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="21" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1583920465020" />
-    <state x="406" y="204" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588444081413">
+    <state x="406" y="204" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591936518846">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="385" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1583920776662" />
-    <state x="406" y="204" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1588444081413" />
-    <state x="221" y="89" key="SettingsEditor" timestamp="1589018032666">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="406" y="204" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1591936518846" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1589734504593">
+      <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1589018032666" />
-    <state x="221" y="89" key="SettingsEditor/0.23.1440.819@0.23.1440.819" timestamp="1588444610526" />
+    <state x="221" y="89" key="SettingsEditor/0.23.1440.819@0.23.1440.819" timestamp="1589734504593" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1588698697093">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
